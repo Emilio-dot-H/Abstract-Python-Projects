@@ -1,4 +1,4 @@
-### Silly Name Generator
+## Silly Name Generator
 
 Simple Python program that generates nutty names by randomly combining first names and surnames.
 
